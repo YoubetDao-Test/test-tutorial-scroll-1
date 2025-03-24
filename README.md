@@ -14,3 +14,4 @@ In this tutorial, you will learn about the key components of the Scroll chain, h
 - Exploring the benefits of using Scroll for scalability and efficiency
 
 Whether you are new to blockchain technology or looking to deepen your understanding, this tutorial will equip you with the skills needed to navigate the Scroll ecosystem. Let’s get started!
+
